@@ -14,10 +14,17 @@ body{
 }
 .container{
     margin: 10px 20%;
-    border: 2px solid gray;
+    border: 2px solid aquamarine;
     padding: 15px;
 }
 
-p, h1, h2, h3{
+p{
+    font-size: 25px;
+}
+h1{
+    font-size:35px;
+}
+
+p, h1, h2{
     margin-top: 5px;
 }
