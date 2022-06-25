@@ -15,7 +15,6 @@ body{
 .container{
     margin: 10px 20%;
     border: 2px solid aquamarine;
-    padding: 15px;
 }
 
 p{
@@ -26,5 +25,11 @@ h1{
 }
 
 p, h1, h2{
-    margin-top: 5px;
+    margin:5px 10px;
+}
+header{
+    background-color: white;
+    color:black;
+    padding:10px;
+    width: 100%;
 }
