@@ -9,7 +9,7 @@ html, body{
     width: 100%;
 }
 body{
-    background-color: #171717;
+    background-color: #0d1117;
     color:aliceblue;
 }
 .container{
@@ -17,16 +17,20 @@ body{
     border: 2px solid rgb(255, 168, 127);
 }
 
-p{
+p, li{
     font-size: 25px;
 }
 h1{
     font-size:35px;
 }
 
-p, h1, h2{
+p, li{
     margin:5px 10px;
 }
+h1, h2{
+    margin-top: 20px;
+}
+
 header{
     background-color: white;
     color:black;
